@@ -11,7 +11,7 @@ This project implements a real-time facial recognition system using Python and O
 - Dataset creation using webcam input
 - Simple command-line-based interface
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - OpenCV
