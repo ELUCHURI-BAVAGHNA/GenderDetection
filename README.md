@@ -34,5 +34,11 @@ This project implements a real-time facial recognition system using Python and O
    - The model detects and recognizes faces in real time.
    - If a face is recognized, the corresponding label or name is displayed.
 
+##  Download Pretrained Model
 
+Due to GitHub’s file size limit, the model file is hosted externally.
+
+**Download the pre-trained gender classification model (`gender_model.h5`) from this link:**
+
+(https://drive.google.com/file/d/1ABCdEfGHijKlMnOPQRstUVwxyz/view?usp=sharing)
 
